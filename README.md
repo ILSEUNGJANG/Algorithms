@@ -1,2 +1,2 @@
 # algorithm
-Code repository for mathemtical algorithms
+Code repository for mathemtical algorithms, especially using SageMath.
